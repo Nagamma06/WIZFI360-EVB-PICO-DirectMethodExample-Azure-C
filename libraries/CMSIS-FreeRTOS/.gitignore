@@ -1,0 +1,3 @@
+# list files that shall be ignored by git
+CMSIS/Documentation/General/
+Local_Release
